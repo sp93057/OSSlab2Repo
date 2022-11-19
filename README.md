@@ -6,3 +6,4 @@ This repository is being contributed and maintained by:
 2. Prabahsh Ranjan Sahoo
 3. Bharat Malviya
 4. Guru Sauri Vargav
+5. Vedant Upganlawar
